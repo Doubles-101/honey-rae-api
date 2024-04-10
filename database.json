@@ -66,8 +66,8 @@
   "employees": [
     {
       "id": 1,
-      "specialty": "Macbook Pros",
-      "rate": "100",
+      "specialty": "Macbook Everything",
+      "rate": "120",
       "userId": 4
     },
     {
